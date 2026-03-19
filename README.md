@@ -48,5 +48,3 @@ python data_cleaning.py
 Run `revenue_queries.sql` and `window_functions.sql` in MySQL Workbench or any MySQL client against your orders database.
 
 
-## Author
-Your Name · [LinkedIn](https://linkedin.com) · [GitHub](https://github.com)
