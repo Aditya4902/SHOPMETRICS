@@ -77,10 +77,10 @@ Run `revenue_queries.sql` and `window_functions.sql` in MySQL Workbench or any M
 ---
 
 ## Live Demo
-🔗 https://Aditya4902.github.io/shopmetrics/
+https://Aditya4902.github.io/shopmetrics/
 
 ## Author
-Aditya Kumar Shah · (https://www.linkedin.com/in/aditya-kumar-shah-7383bb2a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)· [GitHub](https:Aditya4902/SHOPMETRICS//github.com)
+Aditya Kumar Shah · (https://www.linkedin.com/in/aditya-kumar-shah-7383bb2a7?utm_source=share_via&utm_content=profile&utm_medium=member_ios)· [GitHub] https://github.com/Aditya4902
 
 ---
 
